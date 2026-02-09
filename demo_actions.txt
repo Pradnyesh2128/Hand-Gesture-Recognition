@@ -1,0 +1,3 @@
+Thumbs Up  -> Increase Volume
+Fist       -> Pause
+Open Palm  -> Play
